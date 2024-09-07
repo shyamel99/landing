@@ -1,0 +1,22 @@
+.container {
+    display: block;
+    margin-top: 200px;
+    line-height: 30px;
+}
+
+.container h1 {
+    color: white;
+    margin-inline-start: 300px;
+}
+
+.container p {
+    color: rgba(255, 255, 255, 0.795);
+    margin-inline-start: 300px;
+    margin-bottom: 30px;
+    font-size: large;
+}
+
+.card-container {
+    text-align: center;
+}
+
